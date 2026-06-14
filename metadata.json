@@ -1,0 +1,6 @@
+{
+  "name": "TrackMyRoad",
+  "description": "AI-powered civic transparency platform enabling citizens to monitor road quality, track public maintenance budgets, and report issues directly to Executive Engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
